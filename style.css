@@ -568,7 +568,7 @@ body {
 
 
 .welcome {
-  min-height: 100vh;
+  min-height: 10vh;
   padding: 40px 20px;
   max-width: 100%;
   background: #dbd7d7; 
